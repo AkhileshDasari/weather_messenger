@@ -1,4 +1,4 @@
-# 🔒 Phantom Messenger
+#   Weather_Messenger
 
 A private, self-hosted 2-person messenger with a disguised login page.
 
